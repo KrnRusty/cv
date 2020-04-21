@@ -1,2 +1,0 @@
-# cv
-Contains my CV
